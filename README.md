@@ -7,7 +7,7 @@ A play button similar to YouTtube
 
 | Play Button Demonstration | An empty demo | An empty demo | 
 | ------------- | ------------- | ------------- |
-| ![Photo Click](./Images/play.gif)  | _____________________________________ | —————— |
+| ![Photo Click](./Images/play.gif)  | ![Photo Click](./Images/empty-demo.png)  | ![Photo Click](./Images/empty-demo.png)  |
 
 ## Features
 
