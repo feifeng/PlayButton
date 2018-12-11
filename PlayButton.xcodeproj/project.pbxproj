@@ -14,9 +14,9 @@
 		AA120FBA21BF4B60003084A7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AA120FB821BF4B60003084A7 /* LaunchScreen.storyboard */; };
 		AA120FC521BF4B60003084A7 /* PlayButtonTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA120FC421BF4B60003084A7 /* PlayButtonTests.swift */; };
 		AA120FD021BF4B60003084A7 /* PlayButtonUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA120FCF21BF4B60003084A7 /* PlayButtonUITests.swift */; };
-		AA120FDE21BF4BC2003084A7 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = AA120FDD21BF4BC2003084A7 /* README.md */; };
 		AA120FE021BF4BDC003084A7 /* CAPlayButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA120FDF21BF4BDC003084A7 /* CAPlayButton.swift */; };
 		AA120FE221BF5296003084A7 /* UIColor+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA120FE121BF5296003084A7 /* UIColor+Extension.swift */; };
+		AA120FE421BF5C6E003084A7 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = AA120FE321BF5C6E003084A7 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,9 +50,9 @@
 		AA120FCB21BF4B60003084A7 /* PlayButtonUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PlayButtonUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		AA120FCF21BF4B60003084A7 /* PlayButtonUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayButtonUITests.swift; sourceTree = "<group>"; };
 		AA120FD121BF4B60003084A7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		AA120FDD21BF4BC2003084A7 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		AA120FDF21BF4BDC003084A7 /* CAPlayButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CAPlayButton.swift; sourceTree = "<group>"; };
 		AA120FE121BF5296003084A7 /* UIColor+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIColor+Extension.swift"; sourceTree = "<group>"; };
+		AA120FE321BF5C6E003084A7 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,7 +109,7 @@
 				AA120FB621BF4B60003084A7 /* Assets.xcassets */,
 				AA120FB821BF4B60003084A7 /* LaunchScreen.storyboard */,
 				AA120FBB21BF4B60003084A7 /* Info.plist */,
-				AA120FDD21BF4BC2003084A7 /* README.md */,
+				AA120FE321BF5C6E003084A7 /* README.md */,
 				AA120FDF21BF4BDC003084A7 /* CAPlayButton.swift */,
 				AA120FE121BF5296003084A7 /* UIColor+Extension.swift */,
 			);
@@ -240,7 +240,7 @@
 			files = (
 				AA120FBA21BF4B60003084A7 /* LaunchScreen.storyboard in Resources */,
 				AA120FB721BF4B60003084A7 /* Assets.xcassets in Resources */,
-				AA120FDE21BF4BC2003084A7 /* README.md in Resources */,
+				AA120FE421BF5C6E003084A7 /* README.md in Resources */,
 				AA120FB521BF4B5E003084A7 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
