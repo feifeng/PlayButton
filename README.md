@@ -5,9 +5,9 @@ A play button similar to YouTtube
 
 ## Preview
 
-| Play Button Demonstration |
-| ------------- |
-| ![Photo Click](./Images/play.gif)  |
+| Play Button Demonstration | - | - | 
+| ------------- | ------------- | ------------- |
+| ![Photo Click](./Images/play.gif)  | - | - |
 
 ## Features
 
